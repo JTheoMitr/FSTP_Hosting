@@ -1,0 +1,7 @@
+{
+  "urls": {
+    "pingAssertionToken": "https://sso.directv.com/idp/sts.wst?TokenProcessorId=FSSUsers",
+    "pingGetToken": "https://fstp.my.salesforce.com",
+    "revokeAccessToken": "https://fstp.my.salesforce.com/services/oauth2/revoke?token=",
+  }
+}
