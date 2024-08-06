@@ -1,8 +1,8 @@
 {
   "urls": {
-    "pingAssertionToken": "https://ssostg.directv.com/idp/sts.wst?TokenProcessorId=FSSUsers",
-    "pingGetToken": "https://fstp--fstpstg.sandbox.my.salesforce.com",
-    "revokeAccessToken": "https://fstp--fstpstg.sandbox.my.salesforce.com/services/oauth2/revoke?token=",
-    "sfdcOAuthToken": "https://fstp--fstpstg.sandbox.my.salesforce.com/services/oauth2/token"
+    "pingAssertionToken": "https://sso.directv.com/idp/sts.wst?TokenProcessorId=FSSUsers",
+    "pingGetToken": "https://login.salesforce.com/?saml=02HKiPoin4stern4D0oGyW0HlNM4fw9QFOer.MzdruWGA4QUOI9Uo1EtBw",
+    "revokeAccessToken": "https://fstp.my.salesforce.com/services/oauth2/revoke?token=",
+    "sfdcOAuthToken": "https://login.salesforce.com/services/oauth2/token?saml=02HKiPoin4stern4D0oGyW0HlNM4fw9QFOer.MzdruWGA4QUOI9Uo1EtBw"
   }
 }
